@@ -126,3 +126,7 @@ cython_debug/
 
 # VS Code
 .vscode/
+
+# User
+.user.yml
+*.swp
